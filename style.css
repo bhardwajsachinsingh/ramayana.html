@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(28, 106, 175, 0.207);
+    color:orangered;
+}
+
+article{
+    margin: 20px ;
+    border: 15px solid ;
+    padding: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    text-align: center;
+    background-color: aliceblue;
+    color: orangered;
+}
+section{
+    font-weight: 450;
+    font-style:calc();
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
